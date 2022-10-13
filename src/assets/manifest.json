@@ -1,0 +1,15 @@
+{
+  "background_color": "#2c406e",
+  "description": "Foodia - Food Restaurant Mobile App Template.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "assets/images/pwa150x150.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    }
+  ],
+  "name": "Foodia - Food Restaurant",
+  "short_name": "Foodia",
+  "start_url": "index.html"
+}
